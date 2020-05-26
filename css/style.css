@@ -1,4 +1,17 @@
-* {
-  padding: 15px;
+.nav-item {
+  color: black;
+  list-style: none;
+}
+
+.nav-2.nav-item {
+  list-style: none;
+}
+
+.items {
+  overflow-x: hidden;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: black;
 }
 /*# sourceMappingURL=style.css.map */
